@@ -1,0 +1,85 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:02.390
+Pertama, mari kita mulai dengan memilih
+
+00:00:02.390 --> 00:00:03.910
+data yang ingin Anda terapkan pemformatan
+
+00:00:03.910 --> 00:00:04.630
+bersyarat
+
+00:00:05.118 --> 00:00:07.078
+Misalnya, mari kita pilih kolom B
+
+00:00:07.518 --> 00:00:09.198
+Klik pada Pemformatan Bersyarat pada
+
+00:00:09.198 --> 00:00:09.758
+tab Beranda
+
+00:00:10.855 --> 00:00:13.055
+Sekarang mari kita tentukan kriteria yang akan
+
+00:00:13.055 --> 00:00:15.335
+memicu aturan pemformatan Anda. Anda bisa
+
+00:00:15.335 --> 00:00:16.975
+memilih dari peraturan seperti menyoroti
+
+00:00:16.975 --> 00:00:19.135
+nilai yang lebih besar dari angka tertentu atau
+
+00:00:19.135 --> 00:00:20.695
+berisi teks tertentu
+
+00:00:21.175 --> 00:00:23.415
+Mari kita pilih 'teks yang berisi'
+
+00:00:24.571 --> 00:00:27.131
+Pada bagian kotak dialog, tentukan
+
+00:00:27.131 --> 00:00:29.691
+kriteria Anda. Misalnya, jika Anda ingin
+
+00:00:29.691 --> 00:00:31.451
+menyoroti sel yang berisi kata '
+
+00:00:31.451 --> 00:00:34.411
+Tinggi', masukkan 'Tinggi' di kotak teks dan
+
+00:00:34.411 --> 00:00:37.131
+pilih 'dengan isi merah dengan teks merah gelap'
+
+00:00:38.483 --> 00:00:40.503
+Anda dapat melakukan proses yang sama untuk kata-kata '
+
+00:00:40.503 --> 00:00:43.243
+;sedang' dan 'rendah' dan pilih
+
+00:00:43.243 --> 00:00:45.003
+warna yang ingin Anda gunakan dalam sebagai format
+
+00:00:50.250 --> 00:00:52.010
+Anda akan melihat semua sel yang berisi
+
+00:00:52.010 --> 00:00:54.210
+kata 'Tinggi' sekarang disorot
+
+00:00:54.210 --> 00:00:56.530
+seperti yang Anda pilih dan seterusnya, memungkinkan
+
+00:00:56.530 --> 00:00:58.450
+prioritas visual instan dari
+
+00:00:58.450 --> 00:00:59.210
+data penting
+
+00:00:59.714 --> 00:01:01.994
+Aturan ini juga akan secara otomatis menyesuaikan
+
+00:01:01.994 --> 00:01:04.354
+format entri baru yang cocok
+
+00:01:04.354 --> 00:01:05.634
+dengan kata kunci yang ditentukan

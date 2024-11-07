@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+Untuk memulai, tambahkan lembar baru ke file excel
+
+00:00:02.750 --> 00:00:04.830
+di bagian bawah. Klik dua kali untuk
+
+00:00:04.830 --> 00:00:06.590
+memberi nama 'Tabel Terstruktur '.
+
+00:00:08.593 --> 00:00:11.033
+Pilih data di kolom A dengan mengklik
+
+00:00:11.033 --> 00:00:13.633
+dan menyeret kursor Anda ke bawah dari baris
+
+00:00:13.633 --> 00:00:16.353
+satu hingga tujuh, klik kanan dan pilih salinan.
+
+00:00:17.924 --> 00:00:19.884
+Buka lembar baru Anda dan klik kanan di
+
+00:00:19.884 --> 00:00:22.644
+sel A1. Di bawah opsi Tempel, pilih
+
+00:00:22.644 --> 00:00:25.444
+Transpos. Data yang disimpan dalam baris sekarang
+
+00:00:25.444 --> 00:00:27.324
+telah disalin di beberapa kolom.
+
+00:00:43.237 --> 00:00:45.997
+Sekarang pilih semua data, salin dan tempel
+
+00:00:45.997 --> 00:00:48.837
+ke lembar baru di sel A2, sekali lagi
+
+00:00:48.837 --> 00:00:50.877
+menggunakan opsi tempel Transpos.
+
+00:00:53.673 --> 00:00:55.873
+Sekarang, data Anda diformat dengan benar ke dalam
+
+00:00:55.873 --> 00:00:58.273
+baris dan kolom. Anda hanya perlu mengubah
+
+00:00:58.273 --> 00:01:01.233
+nilai dalam A1 dari 'data' hingga 'tahun' sehingga
+
+00:01:01.233 --> 00:01:02.993
+kolom diberi label dengan benar.
+
+00:01:03.457 --> 00:01:06.217
+Terakhir, pilih semua data dan format Anda
+
+00:01:06.217 --> 00:01:08.337
+ke dalam tabel menggunakan salah satu metode
+
+00:01:08.337 --> 00:01:10.137
+yang Anda pelajari dalam latihan sebelumnya.

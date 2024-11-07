@@ -1,0 +1,121 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:01.990
+Katakanlah Anda ingin menghitung jumlah
+
+00:00:01.990 --> 00:00:04.030
+total penampakan untuk jenis katak ini
+
+00:00:05.517 --> 00:00:07.997
+Mulailah rumus Anda dengan tanda sama dengan dan
+
+00:00:07.997 --> 00:00:09.037
+ketik nama fungsi
+
+00:00:10.716 --> 00:00:12.396
+Fungsi yang ingin kita gunakan adalah sum f
+
+00:00:12.396 --> 00:00:14.636
+atau penambahan.  Mulailah dengan jumlah yang sama,
+
+00:00:15.084 --> 00:00:17.044
+kemudian pilih sel atau ketik
+
+00:00:17.044 --> 00:00:20.004
+referensi di dalam tanda kurung. Akhiri
+
+00:00:20.004 --> 00:00:21.524
+dengan menutup tanda kurung.
+
+00:00:22.345 --> 00:00:24.785
+Setelah rumus Anda selesai, tekan
+
+00:00:24.785 --> 00:00:26.545
+enter dan ini dia hasilnya
+
+00:00:27.888 --> 00:00:29.608
+Sekarang, mari kita lihat
+
+00:00:29.608 --> 00:00:31.816
+rumus yang lebih rumit jika Anda ingin menghitung jumlah
+
+00:00:31.816 --> 00:00:33.696
+kejadian spesies katak ini
+
+00:00:33.696 --> 00:00:35.976
+yang tercatat pada tingkat kepercayaan yang tinggi, Anda
+
+00:00:35.976 --> 00:00:37.416
+dapat menggunakan fungsi Count IF.
+
+00:00:37.920 --> 00:00:39.280
+Klik pada sel tempat Anda ingin
+
+00:00:39.280 --> 00:00:40.160
+melihat hasilnya
+
+00:00:40.584 --> 00:00:42.344
+Ketik Sama dengan COUNTIF untuk memulai
+
+00:00:42.344 --> 00:00:42.824
+rumus
+
+00:00:43.784 --> 00:00:45.664
+Kemudian pilih rentang yang berisi
+
+00:00:45.664 --> 00:00:47.344
+nama spesies, kolom A
+
+00:00:48.048 --> 00:00:50.448
+Ketik koma kemudian tanda kutip
+
+00:00:50.448 --> 00:00:52.488
+tentukan nama spesies yang
+
+00:00:52.488 --> 00:00:53.208
+ingin Anda telusuri
+
+00:00:53.592 --> 00:00:56.352
+Seperti yang terlihat, Excel akan memberikan petunjuk
+
+00:00:56.352 --> 00:00:58.632
+di bawah rumus, yang memandu Anda melalui
+
+00:00:58.632 --> 00:00:59.992
+format penulisan yang benar
+
+00:01:00.504 --> 00:01:03.144
+Untuk melanjutkan, ketik koma lain untuk menambahkan
+
+00:01:03.144 --> 00:01:05.544
+rentang kriteria ke-2, yang akan menjadi
+
+00:01:05.544 --> 00:01:07.264
+kolom tingkat kepercayaan B di
+
+00:01:07.264 --> 00:01:07.904
+lembar kerja
+
+00:01:08.328 --> 00:01:10.808
+Ketik koma akhir dan dalam tanda kutip,
+
+00:01:10.808 --> 00:01:13.608
+masukkan tingkat kepercayaan yang diinginkan sebagai '
+
+00:01:13.608 --> 00:01:14.008
+tinggi'
+
+00:01:14.711 --> 00:01:16.671
+Seret sudut sel ke bawah untuk
+
+00:01:16.671 --> 00:01:18.911
+mengulangi rumus. Kemudian sesuaikan
+
+00:01:18.911 --> 00:01:21.111
+tingkat kepercayaan dalam tanda kutip sebagai '
+
+00:01:21.231 --> 00:01:23.831
+Sedang' atau 'Rendah' untuk
+
+00:01:23.831 --> 00:01:25.311
+mendapatkan masing-masing hitungan
